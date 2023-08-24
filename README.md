@@ -5,4 +5,4 @@ There are 3 variants of Git
 -GitHub w/ plans
 -GitHub Enterprise
 
-Today we'll cover various setting on git that you will use forever (unless you use BitBucket, Azure DevOps, or AWS CodeBuild)!
+Today we'll cover various settings on git that you will use forever (unless you use BitBucket, Azure DevOps, or AWS CodeBuild)!
